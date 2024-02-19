@@ -1,36 +1,31 @@
-# Sort-C-
+# OperatiiMatrice Application
 
-Sort-C- is a C# application designed to visually represent the sorting of a collection of numbers using the selection sort algorithm. The sorting process is displayed graphically in an n x n grid format, where 'n' represents the number of items to sort. This visual approach helps to understand the sorting steps and the efficiency of the algorithm.
+## Overview
+OperatiiMatrice is a comprehensive matrix operations software designed for educational purposes. It allows users to perform a variety of matrix calculations, understand the theoretical background, and visualize matrix operations through interactive animations.
 
 ## Features
+- **Matrix Calculation:** Perform basic operations such as addition, subtraction, and multiplication, as well as advanced operations like finding the determinant, rank, inverse, and transposition.
+- **Theoretical Background:** Access theoretical materials to gain a deeper understanding of matrix concepts and operations.
+- **Animations:** Engage with animations that illustrate the step-by-step process of matrix calculations, enhancing the learning experience.
 
-- Graphical representation of the selection sort algorithm.
-- Interactive UI to control the number of elements and initiate the sort.
-- Step-by-step visualization of the sorting process, including swaps and comparisons.
+## Screenshots
+![Screenshot 1](https://github.com/jonathan2667/Matrix-Operation-Calculator/assets/77002214/8b141aa5-4b24-45ff-be30-bb19dd16194a)
 
-## Screenshot
+![Screenshot 2](https://github.com/jonathan2667/Matrix-Operation-Calculator/assets/77002214/a30678b0-1d28-44f3-be05-807ab6ed4ee5)
 
-![Sort-C- Screenshot](https://user-images.githubusercontent.com/77002214/213646699-b54d0328-a38b-4805-801a-45f80a28f3d2.png)
+![Screenshot 3](https://github.com/jonathan2667/Matrix-Operation-Calculator/assets/77002214/9b925364-ac6e-4aa3-a350-559b51e14c86)
 
-## How to Use
+## Usage
+After launching OperatiiMatrice, navigate through the tabs to access its various functions:
+- **Calculator Matrici:** Enter matrix values to perform operations.
+- **Teorie:** Read through the provided theoretical content.
+- **Animatie:** View animations demonstrating matrix operations.
 
-1. Adjust the 'Numarul de numere' spinner to set the number of elements you want to sort.
-2. Optionally, load a set of numbers from a file using the 'Read file' button.
-3. Click 'Start' to begin the visualization of the sorting algorithm.
-4. Observe the sorting process with highlighted comparisons and swaps.
-
-## Installation
-
-To run Sort-C-, ensure you have the .NET framework installed, as it is necessary for running C# applications.
-
-1. Clone or download the repository to your local machine.
-2. Open the solution in Visual Studio or a compatible C# IDE.
-3. Build and run the application.
-
-## Contributions
-
-Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
+## Contributing
+Contributions are welcome! If you'd like to contribute to OperatiiMatrice, please fork the repository, commit your changes, and submit a pull request.
 
 ## License
+OperatiiMatrice is made available under the MIT License. For more details, see the LICENSE file in the repository.
 
-Sort-C- is open-source software licensed under the MIT license. For more details, see the LICENSE file in the repository.
+## Contact
+If you have any questions or need assistance with OperatiiMatrice, please reach out to the repository owner.
